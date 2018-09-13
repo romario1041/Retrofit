@@ -1,6 +1,5 @@
 # Retrofit
-Exercicio para ajudar alunos da DH 
+How to use Retrofit example
 
-
-Link para consumir JSON
+API link 
 https://jsonplaceholder.typicode.com/
